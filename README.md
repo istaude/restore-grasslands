@@ -4,8 +4,8 @@
 ## About
 
 This repository contains all R code and data to reproduce the analyses
-and figures in *“If we want to bend the curve of biodiversity loss,
-bring grassland restoration to the fore”*.
+and figures in *“Prioritize grassland restoration to bend the curve of
+biodiversity loss”*.
 
 ## Folder structure
 
